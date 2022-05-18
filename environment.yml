@@ -1,0 +1,15 @@
+name: pytorch_env
+
+
+channels:
+  
+  - pytorch # DL
+
+dependencies:
+
+  # basic
+  - python 
+  - pandas 
+  - cudatoolkit=11.3
+  - pytorch
+  - torchvision
