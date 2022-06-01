@@ -54,7 +54,7 @@ python run_rbf.py -L 15 -nw 30 -nc 5 -R 1000 -nspl_fam 5 -nspl_unfam 5 -gamma 0.
 
 <br>
 
-## SVM with Optimal Kernel $K^\star$ 
+## SVM with Optimal Kernel K-STAR
 
 To reproduce the result from the second experiment type:
 
@@ -85,7 +85,7 @@ $B_{ij} = K^\star(x^\textrm{test}_i, x^\textrm{train}_j) \ / \ K^\star(\hat{x}, 
 
 <br>
 
-## Neareast-Neighbor with Optimal Kernel $K^\star$ 
+## Neareast-Neighbor with Optimal Kernel K-STAR
 
 To reproduce the result from the second experiment type:
 
