@@ -3,7 +3,7 @@ name: pytorch_env
 
 channels:
   
-  - pytorch # DL
+  - pytorch
 
 dependencies:
 
@@ -13,3 +13,5 @@ dependencies:
   - cudatoolkit=11.3
   - pytorch
   - torchvision
+  - numpy
+  - scikit-learn
