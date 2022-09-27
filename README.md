@@ -1,4 +1,4 @@
-# One-Shot Generalization
+# Long-tailed Learning Requires Feature Learning
 
 
 <br>
