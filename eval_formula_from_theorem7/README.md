@@ -1,4 +1,4 @@
-The following code will compute the coefficient 0.015 appearing in (12) (with choice $\ell = 7$):
+The following code will compute the coefficient 0.015 appearing in (10) (with choice $\ell = 7$):
 
 python eval_RHS_thm7.py -L 9 -nw 150 -nc 5 -R 1000
 

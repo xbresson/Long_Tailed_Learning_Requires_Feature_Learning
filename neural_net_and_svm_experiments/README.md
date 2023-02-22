@@ -15,6 +15,6 @@ where h1 and emb are the hidden and ouput sizes of the first MLP, and h2 is the 
 
 ### EXPERIMENTS WITH SVM 
 
-The following command will generate a train set and a test set. It will then use SCIKIT-LEARN to fit a plain SVM and a SVM with gaussian kernel on the features extracted by psi_{one-hot}. The test set contains 10R unfamiliar sentences (10 sentences per category). Gamma is the parameter involved in the definition of the Gaussian kernel. 
+The following command will generate a train set and a test set. It will then use SCIKIT-LEARN to fit a plain SVM and a SVM with gaussian kernel on the features extracted by $\psi_\textrm{one-hot}$. The test set contains 10R unfamiliar sentences (10 sentences per category). Gamma is the parameter involved in the definition of the Gaussian kernel. 
 
 python run_svm.py -L 9 -nw 150 -nc 5 -R 1000 -nspl_fam 5 -nspl_unfam 3 -gamma 0.1

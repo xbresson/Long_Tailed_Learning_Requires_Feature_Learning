@@ -27,7 +27,7 @@ conda activate pytorch_env
 
 ## Experiments
 
-The folder eval_formula_from_theorem7 contains a code that evaluates the combinatorial formula between square bracket appearing in Theorem 7. This code will display inequality (105) for every $2 \leq \ell \leq L$ (with numerical values for the constant involved). In particular it will display inequality (10) when the parameters are set to $L=9$, $n_w=150$, $n_c=5$ and $R=1000$.
+The folder eval_formula_from_theorem7 contains a code that evaluates the combinatorial formula between square bracket appearing in Theorem 7. This code will display inequality (105) for every $2 \leq \ell \leq L$ (with numerical values for the constant involved). In particular it will display inequality (10) when the parameters are set to $L=9,$ $n_w=150,$ $n_c=5$ and $R=1000$.
 
 <br>
 
